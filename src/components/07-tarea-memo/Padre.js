@@ -19,7 +19,6 @@ export const Padre = () => {
             <p> Total: { valor } </p>
 
             <hr />
-
             {
                 numeros.map( n => (
                     <Hijo 
